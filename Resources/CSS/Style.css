@@ -1,0 +1,62 @@
+header {
+	height: 64px;
+	display: inline;
+}
+
+ul {
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+	float: right;
+	padding: 25px 8px;
+	font-size: 32px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+	font-weight: 300;
+}
+
+.container {
+	background-color:#776E6E;
+}
+
+.nav_name {
+	display: inline;
+	position: relative;
+	bottom: 20px;
+	font-size: 32px;
+	font-family: "Helvetica";
+	color:linen;
+}
+
+.logo {
+	display: inline;
+	height: 60px;
+	padding-left: 24px;
+	padding-top: 15px;
+}
+
+.sign_in {
+	padding-right: 24px;
+}
+
+#colmar {
+	color: deepskyblue;
+}
+
+.container2 {
+	display: block;
+	width: auto;
+}
+
+.banner {
+	width: 60%;
+	padding: 32px 24px;
+}
